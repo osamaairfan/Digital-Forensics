@@ -1,6 +1,3 @@
-
-Digital Forensics
-
 Name: M. Osama Irfan
 Roll No: 21k-4772
 Section: BCY-4B
@@ -31,4 +28,5 @@ Q9) netstat –ta
 
 Q10) flag{d1g1tal_f0r3ns1cs_101}
 
+![image](https://user-images.githubusercontent.com/115397536/221544980-7b4ce111-1acf-4186-b9f1-1d01c2c1313d.png)
 
