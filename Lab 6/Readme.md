@@ -1,7 +1,11 @@
 # DF Lab 06
 ## Q1
-###### Q1
 
-Text that is not a quote
+> anything
 
-> Text that is a quote
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
