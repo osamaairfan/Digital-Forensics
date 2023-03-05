@@ -5,6 +5,6 @@
 Some basic Git commands are:
 
 
-Here is a simple footnote[^1].
+[^1].
 
 [^1]: My reference.
