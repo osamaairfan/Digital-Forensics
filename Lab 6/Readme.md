@@ -5,5 +5,6 @@
 Some basic Git commands are:
 
 
-[^1]: My reference.
+You can also use words, to fit your writing style more closely[^note].
 
+[^1]: My reference.
