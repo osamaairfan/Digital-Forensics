@@ -4,8 +4,8 @@
 > anything
 Some basic Git commands are:
 
-```
 `#0969DA`
+```
 git status
 git add
 git commit
