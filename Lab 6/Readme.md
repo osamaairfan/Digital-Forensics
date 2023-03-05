@@ -1,9 +1,7 @@
 # DF Lab 06
 ## Q1
 
-> anything
-Some basic Git commands are:
+> **MD5 Hash**
+> c91e969e9184267c35ddc3ff45f795d3
 
 
-
-[^1]: My reference.
