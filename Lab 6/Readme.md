@@ -8,5 +8,6 @@
 > c61dce75ba83f186471297e2e0568ddd0cefe022
 
 ## Q2
-> 
+> **MFT Record Number** 
+> 40 (40960)
 
