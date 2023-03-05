@@ -5,7 +5,7 @@
 Some basic Git commands are:
 
 ```
-`#RRGGBB`
+`#0969DA`
 git status
 git add
 git commit
