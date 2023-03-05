@@ -2,7 +2,6 @@
 ## Q1
 
 > anything
-
 Some basic Git commands are:
 ```
 git status
