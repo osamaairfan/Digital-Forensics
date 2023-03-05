@@ -8,3 +8,10 @@ git status
 git add
 git commit
 ```
+
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
