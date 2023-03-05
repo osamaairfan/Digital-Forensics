@@ -3,8 +3,9 @@
 
 > anything
 Some basic Git commands are:
-`#RRGGBB`
+
 ```
+`#RRGGBB`
 git status
 git add
 git commit
