@@ -20,5 +20,5 @@
 > HostUrl=https://pbs.twimg.com/media/FadAHVAUUAAVp2Q?format=jpg&name=small
 
 ## Q5
-> **Volume serial number raw: **
+**Volume serial number raw: **
 > 0xF64442B744427A7F 
