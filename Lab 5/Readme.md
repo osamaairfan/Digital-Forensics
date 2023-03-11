@@ -5,6 +5,8 @@ Roll No: 21k-4772
 
 Section: BCY-4B
 ## Q1
+> Given below are the protocols present in the captured traffic file:
+
 ![image](https://user-images.githubusercontent.com/115397536/224506279-a32ff9ab-7662-48b1-85db-a4842c547d7c.png)
 
 ## Q2
@@ -20,10 +22,11 @@ Section: BCY-4B
 
 
 ## Q4
-
+> He logged in into the database using the above credentials.
 
 ## Q5
-
+> Root account password:
+> **1amgr000000t!@#$**
 
 ## Q6
 
