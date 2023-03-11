@@ -1,4 +1,9 @@
 # DF Lab 06
+Name: M. Osama Irfan
+
+Roll No: 21k-4772
+
+Section: BCY-4B
 ## Q1
 > **MD5 Hash:**
 > c91e969e9184267c35ddc3ff45f795d3
