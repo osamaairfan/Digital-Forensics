@@ -14,6 +14,9 @@ Section: BCY-4B
 
 
 ## Q3
+> The attacker got a file named as credentials.txt and the bash history. Also he was able to extract the credentials for the database.
+
+![image](https://user-images.githubusercontent.com/115397536/224506640-d3e90fde-e895-4119-8984-c529ad40d1d8.png)
 
 
 ## Q4
