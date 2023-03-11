@@ -9,6 +9,7 @@ Section: BCY-4B
 
 ## Q2
 > The password is **batman**
+
 ![image](https://user-images.githubusercontent.com/115397536/224506385-989f395a-648c-4597-b5ce-a78d70e93aa9.png)
 
 
