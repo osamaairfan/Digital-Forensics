@@ -29,15 +29,18 @@ Section: BCY-4B
 > **1amgr000000t!@#$**
 
 ## Q6
-> 
+> 2686
 
-## Q7
+## Q7 
+> The attacker launched a python shell and a backdoor.
 
+![image](https://user-images.githubusercontent.com/115397536/226186134-442ab9a6-c2f2-4206-99b3-33f854031cc3.png)
 
 ## Q8
-
+> The attacker read a groot file which has a congratulation message and a flag: **flag{1_4m_gr00000t!}**
 
 ## Q9
-
+> That file contains a backdoor.
 
 ## Q10
+> 
