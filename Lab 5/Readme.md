@@ -29,7 +29,7 @@ Section: BCY-4B
 > **1amgr000000t!@#$**
 
 ## Q6
-> 2686
+> Packet numbers: **2686**
 
 ## Q7 
 > The attacker launched a python shell and a backdoor.
