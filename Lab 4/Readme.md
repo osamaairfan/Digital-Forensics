@@ -5,6 +5,7 @@ Roll No: 21k-4772
 
 Section: BCY-4B
 ## Q1
+> The ip used by the attacker is: 
 > 192.168.0.106 
 
 ## Q2
