@@ -20,7 +20,11 @@ The malware.exe was added to the system.
 
 ## Q2
 ### a)
-
+Encrypted username:
+> **"MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECBYIUIoLIRe/BBB32fryFvAbbq63tqBwWC4p"**
+Encrypted Password:
+> **"MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECDSbaCgH2nxBBBjmwVKy5xlXemkv2Yx3CyQnEh0Pa8CL/Ww="**
+![image](https://user-images.githubusercontent.com/115397536/230781725-2c06f378-1622-4ec7-8537-03ea3feb9b32.png)
 
 ### b)
 
