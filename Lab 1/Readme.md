@@ -9,7 +9,7 @@ Section: BCY-4B
 > **ls** command
 
 ## Q2
-> "cat" command 
+> **cat** command 
 
 ## Q3
 > "grep" command 
