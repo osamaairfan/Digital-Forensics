@@ -37,7 +37,7 @@ Section: BCY-4B
 > netstat –ta
 
 ## Q10
+This image file can be restored by changing the first four magic bytes by using hexedit command.
 > flag{d1g1tal_f0r3ns1cs_101}
-
-![image](https://user-images.githubusercontent.com/115397536/221544980-7b4ce111-1acf-4186-b9f1-1d01c2c1313d.png)
+![Screenshot from 2023-04-09 04-44-14](https://user-images.githubusercontent.com/115397536/230763249-6acfa59c-f363-4687-be9b-c281698730b4.png)
 
