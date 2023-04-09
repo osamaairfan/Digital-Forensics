@@ -15,9 +15,12 @@ Double-click speed of mouse is:
 ![image](https://user-images.githubusercontent.com/115397536/230767796-7c5eb232-5aed-4d1d-a28b-808b3fd77887.png)
 
 ### c)
+The malware.exe was added to the system.
+![image](https://user-images.githubusercontent.com/115397536/230767918-a034af85-2808-486d-b164-6663736a54e9.png)
 
 ## Q2
 ### a)
+
 
 ### b)
 
@@ -25,5 +28,8 @@ Double-click speed of mouse is:
 
 ## Q3
 ### a)
+![image](https://user-images.githubusercontent.com/115397536/230779100-fdfc2e44-5b55-4fd8-9b7e-ee75142dda2b.png)
 
 ### b)
+![image](https://user-images.githubusercontent.com/115397536/230778806-71163d2e-cf7e-4ccc-a477-755492871711.png)
+
