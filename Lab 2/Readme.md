@@ -12,6 +12,7 @@ Double-click speed of mouse is:
 ![image](https://user-images.githubusercontent.com/115397536/230767128-c830af5b-2de4-486f-9986-e1a69196553a.png)
 
 ### b)
+![image](https://user-images.githubusercontent.com/115397536/230767796-7c5eb232-5aed-4d1d-a28b-808b3fd77887.png)
 
 ### c)
 
