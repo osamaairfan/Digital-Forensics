@@ -16,6 +16,7 @@ Double-click speed of mouse is:
 
 ### c)
 The malware.exe was added to the system.
+
 ![image](https://user-images.githubusercontent.com/115397536/230767918-a034af85-2808-486d-b164-6663736a54e9.png)
 
 ## Q2
@@ -26,11 +27,13 @@ Encrypted username:
 Encrypted Password:
 > **"MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECDSbaCgH2nxBBBjmwVKy5xlXemkv2Yx3CyQnEh0Pa8CL/Ww="**
 
-![image](https://user-images.githubusercontent.com/115397536/230781725-2c06f378-1622-4ec7-8537-03ea3feb9b32.png)
+![image](https://user-images.githubusercontent.com/115397536/230781875-14a8fe2d-f822-4d91-a052-3883f57ef87b.png)
 
 ### b)
+![image](https://user-images.githubusercontent.com/115397536/230781938-4d70cc6e-98c6-4035-8e58-f20f69aa76e2.png)
 
 ### c)
+![image](https://user-images.githubusercontent.com/115397536/230782334-cd1d9454-c9f5-49c5-a47d-e050a3c9d8df.png)
 
 ## Q3
 ### a)
