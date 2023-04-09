@@ -6,10 +6,10 @@ Roll No: 21k-4772
 Section: BCY-4B
 
 ## Q1 
-> **ls** command
+> "**ls**" command
 
 ## Q2
-> **cat** command 
+> "**cat**" command 
 
 ## Q3
 > "grep" command 
