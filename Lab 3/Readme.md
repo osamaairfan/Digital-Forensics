@@ -11,6 +11,7 @@ In this challenge, the author has created an array of bytes (byteArray) and assi
 
 ## Q2
 
+![Picture2](https://user-images.githubusercontent.com/115397536/230845156-6a388234-b176-4052-a4c7-8a2ef2ae7fe6.png)
 
 
 ## Q3
