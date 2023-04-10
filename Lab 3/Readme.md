@@ -10,8 +10,15 @@ In this challenge, the author has created an array of bytes (byteArray) and assi
 ![image](https://user-images.githubusercontent.com/115397536/230839920-7d9f1764-281a-4fcc-8a16-76a005c42324.png)
 
 ## Q2
+The first image:
 
-![Picture2](https://user-images.githubusercontent.com/115397536/230845156-6a388234-b176-4052-a4c7-8a2ef2ae7fe6.png)
+![image](https://user-images.githubusercontent.com/115397536/230850681-258f2e6b-9aab-4ee6-a7dc-4cc47f56aa88.png)
 
+The top secret information:
+
+Name and location of his source:
 
 ## Q3
+By using Sonic Visualizer, we can analyze the spectrogram and recover the flag in it.
+
+![image](https://user-images.githubusercontent.com/115397536/230852880-98810b79-576e-4ac4-a93b-faf7b9b40f73.png)
