@@ -23,7 +23,7 @@ The attacker couldn't get access to **/etc/shadow** file. It is a crucial file t
 
 ## Q6
 The attacker managed to read the contents of the file **"important_note.txt"** using the command below:
-> cmd=cat+%2Fimportant_note.txt
+> **cmd=cat+%2Fimportant_note.txt**
 Also the attacker found a secret password from that file.
 
 ## Q7
@@ -32,8 +32,8 @@ The attacker was able to find a password from **"important_note.txt"** which is 
 
 ## Q8
 The message itself is a string concatenated with a series of character codes that represent ASCII characters. When the character codes are converted to their corresponding characters, the message appeared in a base64 string. After decoding, a readable message with a flag was found as below:
-> Gentlemen, it is with great pleasure I inform you that:
-> flag{h1pp1ty_h0pp1ty_y0ur_w3bs1t3_1s_n0w_my_pr0p3rty!:D}
+> **Gentlemen, it is with great pleasure I inform you that:**
+> **flag{h1pp1ty_h0pp1ty_y0ur_w3bs1t3_1s_n0w_my_pr0p3rty!:D}**
 
 ## Q9
 My key takeaways from this attack scenario are:
