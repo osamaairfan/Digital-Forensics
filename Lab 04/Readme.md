@@ -16,7 +16,7 @@ The attacker is using:
 > **Mozilla Firefox version 102.0 on a Linux x86_64 system**
 
 ## Q4
-The attacker used **SQLmap** as an automated tool during the attack. SQLmap is a popular open-source tool used for detecting and exploiting SQL injection vulnerabilities in web applications.
+The attacker used **"SQLmap"** as an automated tool during the attack. SQLmap is a popular open-source tool used for detecting and exploiting SQL injection vulnerabilities in web applications.
 
 ## Q5
 The attacker couldn't get access to **/etc/shadow** file. It is a crucial file that stores user password information in an encrypted format.
