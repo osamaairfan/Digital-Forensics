@@ -15,9 +15,12 @@ The first image:
 ![image](https://user-images.githubusercontent.com/115397536/230850681-258f2e6b-9aab-4ee6-a7dc-4cc47f56aa88.png)
 
 The top secret information:
->
+> I have obtained information regarding a top secret mission. The details are highly classified and must not fall into the wrong hands. Proceed with caution and use extreme discretion in all communications regarding this matter.>
 Name and location of his source:
->
+> Michael Scott
+
+> GPS Latitude  : 34 deg 12' 39.33"
+> GPS Longitude : 118 deg 26' 11.15"
 
 ## Q3
 By using Sonic Visualizer, we can analyze the spectrogram and recover the flag in it.
