@@ -33,7 +33,7 @@ The attacker was able to find a password from **"important_note.txt"** which is 
 ## Q8
 The message itself is a string concatenated with a series of character codes that represent ASCII characters. When the character codes are converted to their corresponding characters, the message appeared in a base64 string. After decoding, a readable message with a flag was found as below:
 > **Gentlemen, it is with great pleasure I inform you that:**
-> **flag{h1pp1ty_h0pp1ty_y0ur_w3bs1t3_1s_n0w_my_pr0p3rty!:D}**
+> **flag{h1pp1ty_h0pp1ty_y0ur_w3bs1t3_1s_n0w_my_pr0p3rty!}**
 
 ## Q9
 My key takeaways from this attack scenario are:
