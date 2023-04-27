@@ -24,6 +24,7 @@ The attacker couldn't get access to **/etc/shadow** file. It is a crucial file t
 ## Q6
 The attacker managed to read the contents of the file **"important_note.txt"** using the command below:
 > **cmd=cat+%2Fimportant_note.txt**
+
 Also the attacker found a secret password from that file.
 
 ## Q7
