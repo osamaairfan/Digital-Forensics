@@ -22,6 +22,9 @@ The attacker got a file named as credentials.txt and the bash history. Also he w
 
 ## Q4
 He logged in into the database using the above credentials.
+> username: myuser
+> 
+> password: P@ssw0rd123456!
 
 ## Q5
 Root account password:
