@@ -44,3 +44,5 @@ The attacker read a groot file which has a congratulation message and a flag:
 That file contains a backdoor.
 
 ## Q10
+> flag{c0ngrats_1f_y0u_m4d3_1t_t1ll_h3r3_ch4mp} 
+![image](https://user-images.githubusercontent.com/115397536/234763252-d1b1b55c-4a01-4125-b397-3b2f2a99f2f5.png)
