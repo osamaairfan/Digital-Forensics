@@ -50,7 +50,7 @@ My key takeaways from this attack scenario are:
 
 ## Q10
 Based on the attack described, these can be some indicators of compromise that could be used to detect future attacks:
-* Unusual or suspicious network traffic
-* Existence of suspicious files or processes
-* Detection of known malware or attack tools
-* User behavior anomalies
+* Unusual or suspicious network traffic.
+* Existence of suspicious files or processes.
+* Detection of known malware or attack tools.
+* User behavior anomalies.
