@@ -37,11 +37,15 @@ The message itself is a string concatenated with a series of character codes tha
 > **flag{h1pp1ty_h0pp1ty_y0ur_w3bs1t3_1s_n0w_my_pr0p3rty!}**
 
 ## Q9
-My key takeaways from this attack scenario are:
+Some of the indicators that comfirmed that the system has been compromised are: 
+* The logs show that there was an unusual amount of network activity during the time of the attack.
+ The attacker have left behind suspicious files or processes on the compromised system.
+ The attacker may have conducted actions on the system that were outside of normal user behavior, such as accessing unusual files or systems or performing unauthorized commands.
 
+My key takeaways from this attack scenario are:
 > 1. Cyber attacks can come in many forms and can be difficult to detect.
 > 2. Security best practices such as regular patching, network segmentation, and strong access controls can help prevent attacks.
-> 3. Organizations should have a robust incident response plan in place to quickly identify and respond to security incidents.
+> 3. Organizations should have a strong incident response plan in place to quickly identify and respond to security incidents.
 > 4. Regular security training and awareness for employees can help them recognize and report suspicious activity.
 
 ## Q10
