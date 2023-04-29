@@ -19,7 +19,7 @@ The attacker is using:
 The attacker used **"SQLmap"** as an automated tool during the attack. SQLmap is a popular open-source tool used for detecting and exploiting SQL injection vulnerabilities in web applications.
 
 ## Q5
-The attacker couldn't get access to **/etc/shadow** file. It is a crucial file that stores user password information in an encrypted format.
+The attacker couldn't get access to **"/etc/shadow"** file. It is a crucial file that stores user password information in an encrypted format.
 
 ## Q6
 The attacker managed to read the contents of the file **"important_note.txt"** using the command below:
