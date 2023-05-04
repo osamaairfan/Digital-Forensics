@@ -11,7 +11,7 @@ Given below are the protocols present in the captured traffic file:
 
 ## Q2
 The password is:
-> **batman**
+> **"batman"**
 
 ![image](https://user-images.githubusercontent.com/115397536/224506385-989f395a-648c-4597-b5ce-a78d70e93aa9.png)
 
@@ -22,13 +22,13 @@ The attacker got a file named as credentials.txt and the bash history. Also he w
 
 ## Q4
 He logged in into the database using the above credentials.
-> username: myuser
+> **username: "myuser"**
 > 
-> password: P@ssw0rd123456!
+> **password: "P@ssw0rd123456!"**
 
 ## Q5
 Root account password:
-> **1amgr000000t!@#$**
+> **"1amgr000000t!@#$"**
 
 ## Q6
 Packet numbers: 
@@ -41,13 +41,13 @@ The attacker launched a python shell and a backdoor.
 
 ## Q8
 The attacker read a groot file which has a congratulation message and a flag:
-> **flag{1_4m_gr00000t!}**
+> **"flag{1_4m_gr00000t!}"**
 
 ## Q9
 That file contains a backdoor.
 
 ## Q10
 In the backdoor.py script, I changed the backdoor.py script by calling the xor decoding function and decoded the string found in the TCP stream with the help of the secret key and found the flag 
-> **flag{c0ngrats_1f_y0u_m4d3_1t_t1ll_h3r3_ch4mp}**
+> **"flag{c0ngrats_1f_y0u_m4d3_1t_t1ll_h3r3_ch4mp}"**
 
 ![image](https://user-images.githubusercontent.com/115397536/234763252-d1b1b55c-4a01-4125-b397-3b2f2a99f2f5.png)
