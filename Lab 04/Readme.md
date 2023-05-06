@@ -16,25 +16,25 @@ The attacker is using:
 > **Mozilla Firefox version 102.0 on a Linux x86_64 system**
 
 ## Q4
-The attacker used **"SQLmap"** as an automated tool during the attack. SQLmap is a popular open-source tool used for detecting and exploiting SQL injection vulnerabilities in web applications.
+The attacker used **'SQLmap'** as an automated tool during the attack. SQLmap is a popular open-source tool used for detecting and exploiting SQL injection vulnerabilities in web applications.
 
 ## Q5
 The attacker couldn't get access to **"/etc/shadow"** file. It is a crucial file that stores user password information in an encrypted format.
 
 ## Q6
-The attacker managed to read the contents of the file **"important_note.txt"** using the command below:
+The attacker managed to read the contents of the file **'important_note.txt'** using the command below:
 > **cmd=cat+%2Fimportant_note.txt**
 
 Also the attacker found a secret password from that file.
 
 ## Q7
-The attacker was able to find a password from **"important_note.txt"** which is as below:
-> **sup3r_s3cr3t_4nd_1mp0rt4nt_p4ssw0rd**
+The attacker was able to find a password from **'important_note.txt'** which is as below:
+> **"sup3r_s3cr3t_4nd_1mp0rt4nt_p4ssw0rd"**
 
 ## Q8
 The message itself is a string concatenated with a series of character codes that represent ASCII characters. When the character codes are converted to their corresponding characters, the message appeared in a base64 string. After decoding, a readable message with a flag was found as below:
 > **Gentlemen, it is with great pleasure I inform you that:**
-> **flag{h1pp1ty_h0pp1ty_y0ur_w3bs1t3_1s_n0w_my_pr0p3rty!}**
+> **"flag{h1pp1ty_h0pp1ty_y0ur_w3bs1t3_1s_n0w_my_pr0p3rty!}"**
 
 ## Q9
 Some of the indicators that comfirmed that the system has been compromised are: 
