@@ -5,18 +5,18 @@ Roll No: 21k-4772
 
 Section: BCY-4B
 ## Q1
-> **MD5 Hash:**
+**MD5 Hash:**
 > c91e969e9184267c35ddc3ff45f795d3
->
-> **SHA1 Hash:**
+
+**SHA1 Hash:**
 > c61dce75ba83f186471297e2e0568ddd0cefe022
 
 ## Q2
-> **MFT Record Number:** 
+**MFT Record Number:** 
 > 40 (40960)
 
 ## Q3
-> **Parent directory of the $Txf file:**
+**Parent directory of the $Txf file:**
 > .\$Extend\$RmMetadata
 
 ## Q4
