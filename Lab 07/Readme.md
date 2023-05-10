@@ -15,4 +15,8 @@ Found the flag by taking the hex values assigned to the data types by converting
 Firstly I converted the hex values given in the code (if statements) to decimal and then executing the code using ltrace command. After inputting the decimal values as the magic numbers, the flag would be found.
 > **"flag{sup3r_s1mpl3_x0r}"**
 
+![image](https://github.com/osamaairfan/Digital-Forensics/assets/115397536/88950c59-da05-45bc-8216-4d7f25c0e8aa)
 
+
+
+## task3:
