@@ -20,3 +20,7 @@ Firstly I converted the hex values given in the code (if statements) to decimal 
 
 
 ## task3:
+I changed the dword [var_bch] hex value to the ones currently available in the main function and then execute the code by ltrace command. In this way the flag was found.
+> **"flag{r3v3rs2_2ng0n22r0ng_0z0}"**
+
+![image](https://github.com/osamaairfan/Digital-Forensics/assets/115397536/d7a24179-960c-48ec-994d-9aa65584ff51)
