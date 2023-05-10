@@ -24,3 +24,9 @@ I changed the dword [var_bch] hex value to the ones currently available in the m
 > **"flag{r3v3rs2_2ng0n22r0ng_0z0}"**
 
 ![image](https://github.com/osamaairfan/Digital-Forensics/assets/115397536/d7a24179-960c-48ec-994d-9aa65584ff51)
+
+## task4:
+I ran the python script and entered the password **'sup3r_s3cr3t_k3y'** and obtained the flag.
+> **"flag{4_m3d10cr3_m4lw4r3_ch4ll3nge}"**
+
+![image](https://github.com/osamaairfan/Digital-Forensics/assets/115397536/a11507c7-5352-4848-8c57-6dbd7b1b5680)
