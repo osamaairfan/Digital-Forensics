@@ -32,9 +32,9 @@ By using `└─$ john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-
 
 ## Q3
 By using `hashcat -m 1400 -a 3 11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c ?u?d?d?l?s -1 ?u?d?l?s -2 ?d?d -3 ?l -4 ?s -i` the hash has been cracked.
+> **Password hash:** '11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c:N00b_'
+
 > **Note**
 > 
 > The -1 ?u?d?l?s flag specifies that the first character must be an uppercase letter, digit, lowercase letter, or symbol, while -2 ?d?d specifies that the next two characters must be digits. Similarly, -3 ?l specifies that the fourth character must be a lowercase letter, -4 ?s specifies that the fifth character must be a symbol, and -i specifies that the attack should be case-insensitive.
 
-
-> **Password hash:** '11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c:N00b_'
