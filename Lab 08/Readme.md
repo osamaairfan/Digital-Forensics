@@ -5,7 +5,7 @@ Roll No: 21k-4772
 
 Section: BCY-4B
 
-###For the learning purpose:
+### For the learning purpose:
 
 Here are some commonly used characters for creating masks in Hashcat:
 
