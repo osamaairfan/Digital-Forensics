@@ -24,4 +24,9 @@ Here are some examples of how to use masks in Hashcat:
 
 ## Q1
 ![Screenshot from 2023-05-14 05-00-27](https://github.com/osamaairfan/Digital-Forensics/assets/115397536/1d7395ff-20e3-45e7-99bf-5dea7de76bce)
+By using hashcat -m 0 -a 3 48bb6e862e54f2a795ffc4e541caed4d ?l?l?l?l
 
+> 48bb6e862e54f2a795ffc4e541caed4d:easy 
+
+## Q2
+By using '└─$ john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha512 hash.txt'
