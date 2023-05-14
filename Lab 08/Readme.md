@@ -29,4 +29,4 @@ By using hashcat -m 0 -a 3 48bb6e862e54f2a795ffc4e541caed4d ?l?l?l?l
 > 48bb6e862e54f2a795ffc4e541caed4d:easy 
 
 ## Q2
-By using '└─$ john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha512 hash.txt'
+'By using' └─$ john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha512 hash.txt'
