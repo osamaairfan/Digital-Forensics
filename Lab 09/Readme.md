@@ -4,4 +4,9 @@ Name: M. Osama Irfan
 Roll No: 21k-4772
 
 Section: BCY-4B
-## Q1
+
+## 01
+> flag{dr34d_1t_run_f0r_1t_
+
+## 02
+
