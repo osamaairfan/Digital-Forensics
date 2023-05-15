@@ -23,6 +23,7 @@ By using `'hashcat -m 1400 -a 3 11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7
 
 ## Q4
 I created a python script to perform hash salting in the given hash:
+
 **Salted Password**: ``'16c5b239b86531789a90776263ef292722465c0f8466fd2a9bf92d441e40a03e'``
 
 By using `'john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha256 hash.txt'` the password hash has been cracked.
