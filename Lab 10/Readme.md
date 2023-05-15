@@ -14,7 +14,7 @@ By using `'john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha512 
 > **Password:** `"michael1997"`
 
 ## Q3
-By using `'hashcat -m 1400 -a 3 11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c ?u?d?d?l?s -1 ?u?d?l?s -2 ?d?d -3 ?l -4 ?s -i'` the hash has been cracked.
+By using `'hashcat -m 1400 -a 3 11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c ?u?d?d?l?s -1 ?u?d?l?s -2 ?d?d -3 ?l -4 ?s -i'`, the hash has been cracked.
 > **Password:** `"11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c:N00b_"`
 
 > **Note**
