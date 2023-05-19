@@ -5,44 +5,39 @@ Roll No: 21k-4772
 
 Section: BCY-4B
 
-## Q1
-By using `'hashcat -m 0 -a 3 48bb6e862e54f2a795ffc4e541caed4d ?l?l?l?l'` the hash has been cracked.
-> **Password:** "48bb6e862e54f2a795ffc4e541caed4d:easy"
+## Task 01: 
+  
+  ![image](https://user-images.githubusercontent.com/118754984/230709002-db9489ec-18f4-478c-be6f-666c3293fbe3.png)
+    
+ > `"flag{s0m3_stuff_c0p13d_1n_th3_cl1pb0ard}"`
+ 
+## Task 02: 
+  
+  ![image](https://user-images.githubusercontent.com/118754984/230708980-96bd3775-12c7-4f66-9422-5c4b566aac6a.png)
+  
+>  `"flag{1nt3rn3t_3xpl0r3r_h1st0ry_1n_m3m0ry_dump}"`
 
-## Q2
-By using `'john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha512 hash.txt'` the password hash has successfully been loaded.
-> **Password:** "michael1997"
+## Task 03: 
+  
+  ![image](https://user-images.githubusercontent.com/118754984/230709061-b516e3e5-5752-4bae-8f99-a59f17703fae.png)
+    
+>  `"flag{3nv1r0nm3nt_v4r14bl3_c4n_4ls0_b3_3xtr4ct3d_fr0m_m3m0ry_dump}"`
 
-## Q3
-By using `'hashcat -m 1400 -a 3 11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c ?u?d?d?l?s -1 ?u?d?l?s -2 ?d?d -3 ?l -4 ?s -i'` the hash has been cracked.
-> **Password:** "11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c:N00b_"
+## Task 04: 
+    
+  ![image](https://user-images.githubusercontent.com/118754984/230709121-6a4e9594-f8a7-4133-901e-e2164ecd2e54.png)
+    
+> `"flag{g00d_0ld_c0ns0l3_h1st0ry}"`
 
-> **Note**
-> 
-> The -1 ?u?d?l?s flag specifies that the first character must be an uppercase letter, digit, lowercase letter, or symbol, while -2 ?d?d specifies that the next two characters must be digits. Similarly, -3 ?l specifies that the fourth character must be a lowercase letter, -4 ?s specifies that the fifth character must be a symbol, and -i specifies that the attack should be case-insensitive.
-
-## Q4
-I created a python script to perform hash salting in the given hash:
-**Salted Password**: `'16c5b239b86531789a90776263ef292722465c0f8466fd2a9bf92d441e40a03e'`
-
-By using `'john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha256 hash.txt'` the password hash has been cracked.
-> **Password:** "¡Vamos!"
-
-## Q5
+## Task 05: 
+    
+  ![image](https://user-images.githubusercontent.com/118754984/230709736-aaabc76c-ba38-4029-8ac0-7574da1c3764.png)
+  ![image](https://user-images.githubusercontent.com/118754984/230709841-c4ac2cf0-9ebc-45b1-87d7-f61e4b077454.png)
+  
+  After renaming the dump to `.data`, I opened the ms_pain.data file in GIMP. At these values, I found the flag:
+    
+    offset: 112544823
+    width: 921
+    height: 350
 
 
-### For the learning purpose:
-
-Here are some commonly used characters for creating masks in Hashcat:
-
-    ?l: This represents a lowercase letter (a-z).
-    ?u: This represents an uppercase letter (A-Z).
-    ?d: This represents a digit (0-9).
-    ?s: This represents a special character, such as !, @, or #.
-    ?a: This represents any character (lowercase letter, uppercase letter, digit, or special character).
-
-Here are some examples of how to use masks in Hashcat:
-
-    ?l?l?l: This mask will generate all possible combinations of three lowercase letters.
-    ?u?l?d?d: This mask will generate all possible combinations of an uppercase letter, a lowercase letter, and two digits.
-    ?l?l?l?l?d?d: This mask will generate all possible combinations of four lowercase letters followed by two digits.
