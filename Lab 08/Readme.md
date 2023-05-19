@@ -33,7 +33,7 @@ Section: BCY-4B
 After renaming the dump to `.data`, I opened the ms_pain.data file in GIMP.
 At these values, The flag was found:
     
-**`offset: 112544823
+> **`offset: 112544823
     width: 921
     height: 350`**
     
