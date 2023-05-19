@@ -31,7 +31,7 @@ By using `'john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha256 
 
 ## Q5
 By using hashcat the password has been cracked:
-> Password: `"7484c9a3d50e649f50411c58317eb7c6c6e506a94b04ebb87dd8715ce16de0d8e41a4894f9be4bbc7dbc204e1f7103e7b75844f78ce288f89befdfb53f9f5ac8:Michael1997_scooby"`
+> **Password:** `"7484c9a3d50e649f50411c58317eb7c6c6e506a94b04ebb87dd8715ce16de0d8e41a4894f9be4bbc7dbc204e1f7103e7b75844f78ce288f89befdfb53f9f5ac8:Michael1997_scooby"`
 
 ### For the learning purpose:
 
