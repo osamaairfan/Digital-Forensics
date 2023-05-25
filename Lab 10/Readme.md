@@ -12,7 +12,7 @@ By using `'hashcat -m 0 -a 3 48bb6e862e54f2a795ffc4e541caed4d ?l?l?l?l'` the has
 ## Q2
 By using `'john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha512 hash.txt'` the password hash has successfully been loaded.
 > **Password:** `"michael1997"`
-
+---
 ## Q3
 By using `'hashcat -m 1400 -a 3 11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c ?u?d?d?l?s -1 ?u?d?l?s -2 ?d?d -3 ?l -4 ?s -i'`, the hash has been cracked.
 > **Password:** `"11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7ce00401c429bd58c:N00b_"`
@@ -20,7 +20,7 @@ By using `'hashcat -m 1400 -a 3 11adeb3106116457ba233b1ef0989ff6b15f590cfe1ab0a7
 > **Note**
 > 
 > The -1 ?u?d?l?s flag specifies that the first character must be an uppercase letter, digit, lowercase letter, or symbol, while -2 ?d?d specifies that the next two characters must be digits. Similarly, -3 ?l specifies that the fourth character must be a lowercase letter, -4 ?s specifies that the fifth character must be a symbol, and -i specifies that the attack should be case-insensitive.
-
+---
 ## Q4
 I created a python script to perform hash salting in the given hash:
 
@@ -28,11 +28,11 @@ I created a python script to perform hash salting in the given hash:
 
 By using `'john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha256 hash.txt'` the password hash has been cracked.
 > **Password:** `"¡Vamos!"`
-
+---
 ## Q5
 By using hashcat the password has been cracked:
 > **Password:** `"7484c9a3d50e649f50411c58317eb7c6c6e506a94b04ebb87dd8715ce16de0d8e41a4894f9be4bbc7dbc204e1f7103e7b75844f78ce288f89befdfb53f9f5ac8:Michael1997_scooby"`
-
+---
 ### For the learning purpose:
 
 Here are some commonly used characters for creating masks in Hashcat:
