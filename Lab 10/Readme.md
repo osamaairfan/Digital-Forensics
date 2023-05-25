@@ -8,7 +8,7 @@ Section: BCY-4B
 ## Q1
 By using `'hashcat -m 0 -a 3 48bb6e862e54f2a795ffc4e541caed4d ?l?l?l?l'` the hash has been cracked.
 > **Password:** `"48bb6e862e54f2a795ffc4e541caed4d:easy"`
-
+...
 ## Q2
 By using `'john --wordlist=/usr/share/wordlists/rockyou.txt --format=raw-sha512 hash.txt'` the password hash has successfully been loaded.
 > **Password:** `"michael1997"`
